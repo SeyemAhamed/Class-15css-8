@@ -1,0 +1,10 @@
+
+======Flex Box====
+
+=> Container (Main Axis/ Cross Axis)
+
+=>flex-direction: (row (default), row-reverse, column, column-reverse)
+
+=====Flex Properties=====
+
+justify-content:
